@@ -9,6 +9,7 @@
   "author": "Taher Pardawala",
   "license": "ISC",
   "dependencies": {
+    "mocha": "^3.4.2",
     "mongoose": "^4.10.8"
   }
 }
